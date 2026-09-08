@@ -11,3 +11,6 @@ You can now download nay video from YouTube, Facebook and Instagram using its li
 
 ## 2.Certficates-generator
 You can now generate a lot of certificates, invitations or any other files are duplicated to each other with small changes using this app, Try now [Certficates-generator](https://github.com/MoazEslam74/Random-pythons-2-Certificates-Generator/)
+
+## 3.QR-generator
+You can now generate a QR code for a link for free without signing in or use free trials on unknown website, Try now [QR-generator](https://github.com/MoazEslam74/Random-pythons-3-QR-Generator)
